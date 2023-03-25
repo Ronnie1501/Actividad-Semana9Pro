@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Almacen"
+    "\\Almacen",
+    "\\Almacen\\DAO"
   ],
+  "SelectedNode": "\\Almacen.sln",
   "PreviewInSolutionExplorer": false
 }

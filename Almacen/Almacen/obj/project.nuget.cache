@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SmhMKXsiARBDyibIy5DvC9ez6KPfD6DZecWqEcBbphkNykG1Cb99FpzxSaD6h8qgvtsjHo/Z70Ab/q+zkpvXIA==",
+  "dgSpecHash": "RuQxc6v0bfP/TUCohKJ55y6uo/sBQWugSO7FawqDshL8lWPrmdh8/VzAd0oxNFilToBJrfVC74oABy1Os3IBQQ==",
   "success": true,
-  "projectFilePath": "E:\\ronni\\Documents\\GitHub\\Actividad-Semana9Progra\\Almacen\\Almacen\\Almacen.csproj",
+  "projectFilePath": "E:\\ronni\\Documents\\GitHub\\Actividad-Semana9Pro\\Almacen\\Almacen\\Almacen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronni\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ronni\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
